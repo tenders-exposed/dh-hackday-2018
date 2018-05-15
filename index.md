@@ -12,7 +12,7 @@ https://opentender.eu/
 ### Elvis
 http://tenders.exposed/
 
-## Arms trade
+### Arms trade
 TBA
 
 ## Filtered data download
@@ -63,6 +63,20 @@ tender_indicator_INTEGRITY_PROCEDURE_TYPE
 tender_indicator_INTEGRITY_SINGLE_BID
 tender_indicator_INTEGRITY_TAX_HAVEN`
 
+## Other data sets to combine
+
+### Company ownership and structure
+https://opencorporates.com/
+https://openownership.org
+
+### Blacklists
+[World Bank Listing of Ineligible Firms & Individuals](http://web.worldbank.org/external/default/main?contentMDK=64069844&menuPK=116730&pagePK=64148989&piPK=64148984&querycontentMDK=64069700&theSitePK=84266)
+
+### Scandals
+[List of corporate collapses and scandals](https://en.wikipedia.org/wiki/List_of_corporate_collapses_and_scandals)
+
+### Other
+Investigative Dashboard
 
 
 
