@@ -6,9 +6,9 @@ Please join the [slack channel](http://eijc18-hackday.slack.com/)
 ## General: Data & Tools
 
 ### DATA
-* we will be using the Digiwhist data
+* we will be using the **Digiwhist data**
 * consolidated and clean tender data on every EU country + Norway, Georgia & Switzerland
-* *!!!* This data is in many cases not exhaustive. Many countries don't publish smaller tenders. Many countries don't publish all data on a tender.
+* **!!!** This data is in many cases not exhaustive. Many countries don't publish smaller tenders. Many countries don't publish all data on a tender.
 * [download of the full data](https://opentender.eu/download) - per country per year
 
 ### TOOLS
@@ -28,7 +28,7 @@ Here are some tools and data we will be using today
 ### Border Control
 * Emilie Ekeberg [Danwatch]
 
-## DOWNLOAD Filtered OpenTender data
+## DOWNLOAD Filtered Digiwhist data
 This data contains only 34 columns.
 
 ### [Example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing)
