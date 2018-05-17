@@ -1,23 +1,37 @@
 # Welcome to the EIJC Hack Day 2018
 
 ## Communication
-http://eijc18-hackday.slack.com/
+Please join the [slack channel](http://eijc18-hackday.slack.com/)
 
-## Data & Tools
+## General: Data & Tools
+
+### DATA
+* we will be using the Digiwhist data
+* consolidated and clean tender data on every EU country + Norway, Georgia & Switzerland
+* *!!!* This data is in many cases not exhaustive. Many countries don't publish smaller tenders. Many countries don't publish all data on a tender.
+* [download of the full data](https://opentender.eu/download) - per country per year
+
+### TOOLS
 Here are some tools and data we will be using today
 
-### Opentender
-https://opentender.eu/
+#### [Opentender](https://opentender.eu/)
+* focus on country
+* various country dashboards
 
-### Elvis
-http://tenders.exposed/
+#### [Elvis](http://tenders.exposed/)
+* focus on sector (and country)
+* visualizing whole sectors as networks
 
+## Other projects with tender data
 ### Arms trade
-TBA
+* Hans Lammerant []
+### Border Control
+* Emilie Ekeberg [Danwatch]
 
-## Filtered data download
-
+## DOWNLOAD Filtered OpenTender data
 This data contains only 34 columns.
+
+### [Example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing)
 
 ### Download here
 * [Austria](http://oz.tenders.exposed/country_data/Austria_all_data-filtered.csv)
@@ -54,9 +68,6 @@ This data contains only 34 columns.
 * [Switzerland](http://oz.tenders.exposed/country_data/Switzerland_all_data-filtered.csv)
 * [United Kingdom](http://oz.tenders.exposed/country_data/United_Kingdom_all_data-filtered.csv)
 
-
-### [Example data & data dictionary](http://oz.tenders.exposed/country_data/Spain_all_d)
-
 ## Other data sets to combine
 
 ### Company ownership and structure
@@ -70,7 +81,7 @@ https://openownership.org
 [List of corporate collapses and scandals](https://en.wikipedia.org/wiki/List_of_corporate_collapses_and_scandals)
 
 ### Other
-Investigative Dashboard
+[Investigative Dashboard](https://data.occrp.org/)
 
 
 
