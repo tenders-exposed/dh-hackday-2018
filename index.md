@@ -11,6 +11,11 @@ Please join the [slack channel](http://eijc18-hackday.slack.com/)
 * **!!!** This data is in many cases not exhaustive. Many countries don't publish smaller tenders. Many countries don't publish all data on a tender.
 * [download of the full data](https://opentender.eu/download) - per country per year
 
+#### [>> DOWNLOAD Filtered Digiwhist data]((http://oz.tenders.exposed/country_data/))
+This data contains only 34 columns.
+
+#### [Example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing)
+
 ### TOOLS
 Here are some tools and data we will be using today
 
@@ -28,18 +33,12 @@ Here are some tools and data we will be using today
 ### Border Control
 * Emilie Ekeberg [Danwatch]
 
-## DOWNLOAD Filtered Digiwhist data
-This data contains only 34 columns.
-
-### [Example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing)
-
-### [Download here](http://oz.tenders.exposed/country_data/)
 
 ## Other data sets to combine
 
 ### Company ownership and structure
-*[opencorporates.com/](https://opencorporates.com/)
-*[openownership.org](https://openownership.org)
+* [opencorporates.com/](https://opencorporates.com/)
+* [openownership.org](https://openownership.org)
 
 ### Blacklists
 [World Bank Listing of Ineligible Firms & Individuals](http://web.worldbank.org/external/default/main?contentMDK=64069844&menuPK=116730&pagePK=64148989&piPK=64148984&querycontentMDK=64069700&theSitePK=84266)
