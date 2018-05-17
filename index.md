@@ -12,9 +12,8 @@ Please join the [slack channel](http://eijc18-hackday.slack.com/)
 * [download of the full data](https://opentender.eu/download) - per country per year
 
 #### [>> DOWNLOAD Filtered Digiwhist data]((http://oz.tenders.exposed/country_data/))
-This data contains only 34 columns.
-
-#### [Example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing)
+* This data contains only 34 columns and contains all years joined by country
+* See [example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing) for the filtered data set
 
 ### TOOLS
 Here are some tools and data we will be using today
@@ -30,6 +29,7 @@ Here are some tools and data we will be using today
 ## Other projects with tender data
 ### Arms trade
 * Hans Lammerant [TBA]
+
 ### Border Control
 * Emilie Ekeberg [Danwatch]
 
