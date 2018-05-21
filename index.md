@@ -16,7 +16,11 @@ Please join the [slack channel](http://eijc18-hackday.slack.com/)
 * See [example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing) for the filtered data set
 
 ### TOOLS
-Here are some tools and data we will be using today
+Tools you can use to explore tender data
+
+#### [TED](http://ted.europa.eu/TED/search/search.do)
+* EU tenders
+* Keywords full text search
 
 #### [Opentender](https://opentender.eu/)
 * focus on country
@@ -33,21 +37,7 @@ Here are some tools and data we will be using today
 ### Border Control
 * Emilie Ekeberg [Danwatch]
 
-
-## Other data sets to combine
-
-### Company ownership and structure
-* [opencorporates.com/](https://opencorporates.com/)
-* [openownership.org](https://openownership.org)
-
-### Blacklists
-[World Bank Listing of Ineligible Firms & Individuals](http://web.worldbank.org/external/default/main?contentMDK=64069844&menuPK=116730&pagePK=64148989&piPK=64148984&querycontentMDK=64069700&theSitePK=84266)
-
-### Persons and companies of political, criminal, or economic interest
-[OpenSanctions](https://www.opensanctions.org/)
-
-### Other
-[Investigative Dashboard](https://data.occrp.org/)
+## [Other data sets to combine](https://docs.google.com/spreadsheets/d/1zFrm1bH4_EoHzXTzMJA7EXTMYXi1H_SJylgI_1sBUxA/edit?usp=sharing)
 
 
 
