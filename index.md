@@ -11,7 +11,7 @@ Please join the [slack channel](http://eijc18-hackday.slack.com/)
 * **!!!** This data is in many cases not exhaustive. Many countries don't publish smaller tenders. Many countries don't publish all data on a tender.
 * [download of the full data](https://opentender.eu/download) - per country per year
 
-#### [>> DOWNLOAD Filtered Digiwhist data]((http://oz.tenders.exposed/country_data/))
+#### [>> DOWNLOAD Filtered Digiwhist data](http://oz.tenders.exposed/country_data/)
 * This data contains only 34 columns and contains all years joined by country
 * See [example data & data dictionary](https://docs.google.com/spreadsheets/d/18H5l5t72x6T_trNWF0BJRI8RH1uxW0F1uQiwJA5-Cok/edit?usp=sharing) for the filtered data set
 
@@ -27,8 +27,8 @@ Here are some tools and data we will be using today
 * visualizing whole sectors as networks
 
 ## Other projects with tender data
-### Arms trade
-* Hans Lammerant [TBA]
+### ArmsTradeWatch
+* Hans Lammerant [Vredesactie]
 
 ### Border Control
 * Emilie Ekeberg [Danwatch]
@@ -42,6 +42,9 @@ Here are some tools and data we will be using today
 
 ### Blacklists
 [World Bank Listing of Ineligible Firms & Individuals](http://web.worldbank.org/external/default/main?contentMDK=64069844&menuPK=116730&pagePK=64148989&piPK=64148984&querycontentMDK=64069700&theSitePK=84266)
+
+### Persons and companies of political, criminal, or economic interest
+[OpenSanctions](https://www.opensanctions.org/)
 
 ### Other
 [Investigative Dashboard](https://data.occrp.org/)
