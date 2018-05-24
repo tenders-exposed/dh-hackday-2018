@@ -26,10 +26,6 @@ Tools you can use to explore tender data
 * focus on country
 * various country dashboards
 
-#### [Elvis](http://tenders.exposed/)
-* focus on sector (and country)
-* visualizing whole sectors as networks
-
 ## Other projects with tender data
 ### ArmsTradeWatch
 * Hans Lammerant [Vredesactie]
